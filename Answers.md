@@ -4,8 +4,8 @@
 
 ### Part A:
 
-**Questions I would ask based on the given prompt:** 
-https://www.ninjaone.com/blog/chrome-high-ram-usage/
+**Questions I would ask based on the given prompt:** \
+https://www.ninjaone.com/blog/chrome-high-ram-usage/ \
 https://support.google.com/chrome/thread/321227995/google-chrome-is-using-a-lot-memory-ram?hl=en
 
 "Are any of those browser tabs important or pertinent to the task you wish to execute on excel?"
@@ -22,7 +22,20 @@ I personally have enough memory and tend to keep apps closed when not in use so 
 Due to my experience with computers and in the IT field I already knew most of the basic questions to ask on how to troubleshoot someones memory consumption, however these sites were helpful as it described and often overlooked feature that being the memory saver function that is built into most modern browsers as well as considering plugins could be a cause of the extra memory usage. They do mention clearing cache and cookies which is another great way to potentially free up RAM, however once they start browsing again and if they always use the same sites, it will most likely only be effective temproarily until the sites they visited before have all been revisited.
 
 ### Part B:
+**Link 1** \
+https://softwarekeep.com/blogs/troubleshooting/how-to-fix-high-ram-usage-on-windows?srsltid=AfmBOooatOajBhv72_MjGmfgxELv5qaQCxE0LVMb1rmxWmtLyKlX-uVD
 
+This link showed some genral and useful steps to troubleshooting RAM consumption.This site seemed particularly useful as it offered 10 solutions ranging from easy and simple to slightly more complex and one outright just saying to upgrade your RAM. I think that upgrading RAM is heavily underrated of a reccomendation as RAM is one of the easier parts to add to a computer and most of the time RAM is extremely affordable for a high quantity and decent quality speeds, especially for simple everyday tasks such as using office software and browsing the web. Although I like saying adding more RAM is a good idea, sometimes it isn't necessary when a simple fix can solve the issue and not cost you any money. Staying vigilant on what and how many programs or tabs of a browser you open as the website suggests and limitting startup apps as well which I do on my personal computer so I only open what I absolutely need when booting my computer.
+
+**Link 2** \
+https://syncromsp.com/blog/how-to-reduce-memory-usage/
+
+This link gave less examples, but the simple and effective ones, but for the 2 main operating systems Windows and Mac. The solutions are easy to do and explained for both OS's which is why I like this site as it can be used by almost anyone having issues. Linux users tend to already be more tech literate and have a deeper understanding and since all linux distributions are different there isn't really a way for the site to show solutions for any or all Linux distros. One solution this site reccomends that I don't see often is to clear temporary files which as they state are temporary, however in practice they dont seem to be that way sometimes. Clearing them can not only help memoery but also clear up a little bit of storage on your drive. 
+
+**Link 3** \
+https://us.norton.com/blog/how-to/how-to-free-up-ram
+
+This link gives examples from a security company, so as you can imagine scanning for malware is a relatively good reccomendation that you could do even for the people who think they are safe on the internet. I also think scanning for malware is an underrated way of checking memory overconsumption as they can be discretly mining crypto on your GPU which will not only potentially impact performance, but will also lower the lifespan of your computer parts. Another interesting solution this site suggested in particular is to "exchange visuals for performance" as they said. Which is to limit any animations and such that may have visual clutter. Going into your pc and adjusting for performance is a good way to optimize your desktop. 
 
 ### Part C:
 
