@@ -37,7 +37,17 @@ https://us.norton.com/blog/how-to/how-to-free-up-ram
 
 This link gives examples from a security company, so as you can imagine scanning for malware is a relatively good reccomendation that you could do even for the people who think they are safe on the internet. I also think scanning for malware is an underrated way of checking memory overconsumption as they can be discretly mining crypto on your GPU which will not only potentially impact performance, but will also lower the lifespan of your computer parts. Another interesting solution this site suggested in particular is to "exchange visuals for performance" as they said. Which is to limit any animations and such that may have visual clutter. Going into your pc and adjusting for performance is a good way to optimize your desktop. 
 
-### Part C:
+### Part C: 
+**Link 1** \
+https://www.linkedin.com/pulse/essential-troubleshooting-steps-application-issues-bedford-jr--m87ge 
 
+This is a really well detailed page about steps you can take to troubleshoot apps and most of these are what you should always think to do such as looking for the documentation of the app, microsoft has their apps well documented and can be easily found through google search. A decent amount of apps even have a built in help feature so you can learn either commands or steps to take to get your desired result whether its something to do in the app like insertion into excel or if its how to change a setting in the app to optimize performance the built in help can offer many solutions to common problems.
+
+**Link 2** \
+https://stackify.com/tips-for-application-troubleshooting/ 
+
+This link is helpful for people of all sorts of level in the IT field. Whether its a basic client side issue or an issue regarding database management or even server side architecture this site has brief descriptions on what some tips for troubleshooting applications in these many fields may be like. Although this isn't similar to the numbered lists with outright solutions to common issues this can often be more helpful by leading you into the right direction on what specifically to search for or what to take as a next step for troubleshooting. Not all issues will be clear with a google search or with some digging into documentation. Sometimes getting help on forums or even contacting support for the company with what you might be having an issue with can be the best solution depending on your situation. 
 
 ## Question 2:
+
+
