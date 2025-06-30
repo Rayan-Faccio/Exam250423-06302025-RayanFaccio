@@ -18,7 +18,7 @@ This is to confirm if there are any plugins that may be consuming more memory. H
 Using a built in memory saver could be a simple solution that works relatively effectively. Certain browsers such as the one I use at home (Opera GX) you can set a custom limit on how much RAM you want it to be able to use
 I personally have enough memory and tend to keep apps closed when not in use so I do not require the use of this function anymore, however on my old computer I did use this feature and I did see a noticable difference.
 
-**Research Discovery**
+**Research Discovery** \
 Due to my experience with computers and in the IT field I already knew most of the basic questions to ask on how to troubleshoot someones memory consumption, however these sites were helpful as it described and often overlooked feature that being the memory saver function that is built into most modern browsers as well as considering plugins could be a cause of the extra memory usage. They do mention clearing cache and cookies which is another great way to potentially free up RAM, however once they start browsing again and if they always use the same sites, it will most likely only be effective temproarily until the sites they visited before have all been revisited.
 
 ### Part B:
@@ -50,4 +50,17 @@ This link is helpful for people of all sorts of level in the IT field. Whether i
 
 ## Question 2:
 
+**Link 1** \
+https://uis.georgetown.edu/file-explorer/
 
+This website seems to be very useful for learning most basics as well as personalization features of file explorer. With the hyperlinks you can quickly jump from the table of contents right to something you want to learn about when it comes to some basics of using file explorer. Going from beginning to end gives you a good grasp on what and how to use file explorer effectively and with your own settings, such as keeping file extensions on, viewing the files a certain way to fit preferance and organizational needs. It has some images showing parts of the file explorer to show what each part is and how it is important which is a necessity when learning how to use the file management system. 
+
+**Link 2** \
+https://www.pcmag.com/how-to/10-tips-how-to-manage-your-files-with-windows-10s-file-explorer
+
+This is similar to the first link, with a little more depth to each customization feature that it decides to explain. I think going in order from the first link to this link would provide ample amount of knowledge and good practices to do with file explorer. This site focuses a little more on actual tips than how to learn the basics of file explorer such as customizing the way it launches in what directory to the ribbon being visible or not, the quick access view, etc. This site provides good detail on how to visually navigate with more depth after having a little knowledge already with file explorer. The only downside to this site is its for the windows 10 version of file explorer and although the differences aren't huge the visual is what changed a lot from windows 10 to 11. I still think this is a great site however as once you click "show more options" in windows 11 you get the same right click menu from windows 10 instead of the oversimplified and less detailed view from the default right click in windows 11.
+
+**Link 3** \
+https://www.xda-developers.com/file-explorer-windows-11/
+
+This would be the final piece of the puzzle to learning file explorer for reltively intermediate level users of the file system. Similar to link 1 it has hyperlinks so being able to quickly see the more complex parts of the guide instead of the beginner parts is a good feature to be able to learn new features faster. This site provides more information on network drives, cloud drives and other similar things you find in file explorer. This is important especially for school or work settings where very often a cloud server is directly connected to your file explorer for easy access of storing information safely to be accessed at a different device at any time. Same with this site showing how to reset the file explorer to default in case any settings you changed by accident you may want to revert before being able to not navigate your file explorer effectively anymore. 
